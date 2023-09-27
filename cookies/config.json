@@ -1,0 +1,7 @@
+{
+  "privacyPolicyURL": "[your privacy policy url]",
+  "cookieName": "consentCookie",
+  "mainMessage": "[The message that says that your website uses cookies]",
+  "gtagID": "[Your gtag ID]",
+  "cookieExpiration": "[cookie expiration time] (set it up as an int in seconds)" 
+}
