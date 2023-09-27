@@ -1,3 +1,3 @@
-<link rel="stylesheet" href="https://dariusdev.fr/cookies/styles.css">
-<script src="https://dariusdev.fr/cookies/cookie.js"></script>
-<script src="https://dariusdev.fr/cookies/cookieConsentBar.js"></script>
+<link rel="stylesheet" href="https://[your website url]/cookies/styles.css">
+<script src="https://[your website url]/cookies/cookie.js"></script>
+<script src="https://[your website url]/cookies/cookieConsentBar.js"></script>
